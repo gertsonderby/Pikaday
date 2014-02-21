@@ -1,6 +1,6 @@
 {
   "name": "pikaday",
-  "version": "1.2.0",
+  "version": "1.2.0-OneComPatch1",
   "description": "A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS",
   "keywords": [
     "datepicker",
@@ -19,7 +19,10 @@
   "main": "pikaday.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dbushell/Pikaday.git"
+    "url": "https://github.com/gertsonderby/Pikaday.git"
+  },
+  "publishConfig": {
+    "registry": "http://npm.one.com/"
   },
   "optionalDependencies": {
     "moment": "2.x"
