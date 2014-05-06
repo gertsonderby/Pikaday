@@ -1,5 +1,5 @@
 {
-  "name": "pikaday",
+  "name": "pikaday-onecom",
   "version": "1.2.0",
   "description": "A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS",
   "keywords": [
@@ -37,7 +37,8 @@
     "browsers": [
       "ie/7..latest",
       "chrome/latest",
-      "firefox/3.6", "firefox/latest",
+      "firefox/3.6",
+      "firefox/latest",
       "safari/latest",
       "opera/latest"
     ]
